@@ -17,4 +17,4 @@ echo "Enter Two vriables"
 
 read var1 var2
 
-echo " You Entered numbers are $var1 and $var1"
+echo " You Entered numbers are $var1 and $var2"
