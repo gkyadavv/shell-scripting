@@ -5,7 +5,7 @@ PERSON2=$2
 
 echo "$PERSON1:: HI $PERSON2"
 echo "$PERSON2:: hello $PERSON1"
-echo "$$PERSON1:: how are you $PERSON2"
+echo "$PERSON1:: how are you $PERSON2"
 echo "$PERSON2:: fine and you"
 echo "$PERSON1:: iam also fine how was the preparartion $PERSON2"
 echo "$PERSON2:: good its going on and how about you"
